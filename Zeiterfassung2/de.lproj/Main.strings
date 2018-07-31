@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "Geld"; ObjectID = "5EZ-rw-w0H"; */
+"5EZ-rw-w0H.text" = "Geld";
+
+/* Class = "UILabel"; text = "Verdienst bei einem Stundenlohn von:"; ObjectID = "Crv-0t-rf5"; */
+"Crv-0t-rf5.text" = "Verdienst bei einem Stundenlohn von:";
+
+/* Class = "UILabel"; text = "Gesamt Stunden"; ObjectID = "LKw-Pr-A1g"; */
+"LKw-Pr-A1g.text" = "Gesamt Stunden";
+
+/* Class = "UIButton"; normalTitle = " Timer stoppen "; ObjectID = "M0i-m3-GBl"; */
+"M0i-m3-GBl.normalTitle" = " Timer stoppen ";
+
+/* Class = "UILabel"; text = "DurchschnittAusgabe"; ObjectID = "Uyu-Wm-QfV"; */
+"Uyu-Wm-QfV.text" = "DurchschnittAusgabe";
+
+/* Class = "UIButton"; normalTitle = "  Alle Zeiten  "; ObjectID = "d81-YR-vba"; */
+"d81-YR-vba.normalTitle" = "  Alle Zeiten  ";
+
+/* Class = "UILabel"; text = "Stundenlohn"; ObjectID = "otF-7g-Ij0"; */
+"otF-7g-Ij0.text" = "Stundenlohn";
+
+/* Class = "UIButton"; normalTitle = " Timer starten "; ObjectID = "rmS-TU-cmp"; */
+"rmS-TU-cmp.normalTitle" = " Timer starten ";
+
+/* Class = "UIBarButtonItem"; title = "Zurück"; ObjectID = "sH2-We-uMm"; */
+"sH2-We-uMm.title" = "Zurück";
